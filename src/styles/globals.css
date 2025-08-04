@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+  --color-main-bg: #192A32;
+  --color-block-bg: #1F3640;
+  --color-x: #31C4BE;
+  --color-o: #F2B238;
+  --color-restart-button: #A8BFC9;
+}
